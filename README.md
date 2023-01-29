@@ -8,6 +8,7 @@
 
 * I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
 * I have experience in build web applications in TypeScript (JavaScript), and Python.
+* Currently a Graduate Teaching Assistant for an MBA Data Science course at [Duke Fuqua](https://www.fuqua.duke.edu/).
 * I am actively seeking for internship opportunities at summer 2023!
 * Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu.
 

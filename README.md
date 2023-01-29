@@ -1,8 +1,8 @@
 ## Hello, I'm Minghui!
 
-I am a MS student at Computer Science and Economics Departments, Duke University.
-
-I am actively seeking for SDE internships opportunities at summer 2023!
+* I am a MS student at Computer Science and Economics Departments, Duke University. 
+* I will Graduate in May 2024.
+* I am actively seeking for SDE internships opportunities at summer 2023!
 
 <!---
 zhuminghui17/zhuminghui17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

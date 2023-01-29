@@ -6,10 +6,10 @@
 
 ## Hello, I'm Minghui! 
 
-* I am a MS student at Computer Science and Economics Departments, Duke University. 
-* I will Graduate in May 2024.
-* I am actively seeking for SDE internships opportunities at summer 2023!
-* Feel free to reach out to me at minghui.zhu@duke.edu
+* I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
+* I have experience in build web applications in TypeScript (JavaScript), and Python.
+* I am actively seeking for internship opportunities at summer 2023!
+* Feel free to reach out to me at [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu.
 
 <!-- ![image](https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500) -->
 

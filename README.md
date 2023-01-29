@@ -18,6 +18,8 @@
 
 ### Stats
 
-[![Mingui's github stats](https://github-readme-stats.vercel.app/api?username=zhuminghui17&show_icon=true&theme=dark)](https://github.com/zhuminghui17)
+GitHub Stats               |  Top Langs
+:-------------------------:|:-------------------------:
+[![Mingui's github stats](https://github-readme-stats.vercel.app/api?username=zhuminghui17&show_icon=true&theme=dark)](https://github.com/zhuminghui17) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuminghui17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuminghui17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+

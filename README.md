@@ -9,7 +9,7 @@
 * I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
 * I am currently a Graduate Teaching Assistant for an MBA Data Science course at [Duke Fuqua](https://www.fuqua.duke.edu/).
 * I have experience in build web applications in TypeScript (JavaScript), and Python.
-* I am learning new stuffs now: cloud computing and algorithic trading!
+* I am learning new stuffs now: [cloud computing](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus), Rust, and algorithmic trading!
 * I am actively seeking for internship opportunities at summer 2023!
 * Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu.
 

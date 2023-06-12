@@ -6,11 +6,11 @@
 ## Hello, I'm Minghui! 
 
 * I am a MS student at Computer Science and Economics Departments, Duke University. I will Graduate in May 2024.
-* I am working as Software Engineer Intern at Christensen Center for Innovation for this summer.
-* I am currently a Graduate Teaching Assistant for an MBA Data Science course at [Duke Fuqua](https://www.fuqua.duke.edu/).
-* I have experience in building web applications in TypeScript (JavaScript), and Python.
-* I am learning new stuffs now: [Cloud Computing](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus), [Rust](https://doc.rust-lang.org/book/), and [Algorithmic Trading](https://math.duke.edu/courses/introduction-algorithmic-trading-financial-data-and-modeling)!
-* I am actively seeking for internship opportunities at summer 2023!
+* My personal portfolio is [minghui.space](http://minghui.space/).
+* I am working as Software Engineer Intern at Christensen Center for Innovation for the summer.
+* I am a Graduate Teaching Assistant for an MBA Data Science course at [Duke Fuqua](https://www.fuqua.duke.edu/).
+* I am good at data structure & algorithms, OO Design, web and mobile applications, and data science & AI applications. 
+* I am actively seeking for new graduate opportunities as an entry-level software engineer.
 * Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu.
 
 ### Stats

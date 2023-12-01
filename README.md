@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://navendu.me"><img src="https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500"(https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500) alt="banner" href=""></a>
-  </br>
-</p>
-
 ## Hi there 👋
 #### My name is Minghui Zhu. I study Computer Science and Economics at Duke University. I will Graduate in May 2024.
 
@@ -10,9 +5,6 @@
 - My interests lay in iOS mobile app development, full-stack web development, quantitative development, and data science.
 - I am actively seeking for new graduate opportunities as an entry-level software engineer.
 - Reach out to me at [LinkedIn](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu, Let's make friends!
-  
-
-
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,10 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,3 +49,8 @@
 GitHub Stats               |  Top Langs
 :-------------------------:|:-------------------------:
 [![Mingui's github stats](https://github-readme-stats.vercel.app/api?username=zhuminghui17&show_icon=true&theme=dark)](https://github.com/zhuminghui17) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuminghui17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://navendu.me"><img src="https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500"(https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500) alt="banner" href=""></a>
+  </br>
+</p>

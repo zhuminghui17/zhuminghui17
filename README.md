@@ -11,7 +11,3 @@
 - I am actively seeking for new graduate opportunities as an entry-level software engineer.
 - Reach out to me at [LinkedIn](https://www.linkedin.com/in/zhuminghui17/) or minghui.zhu@duke.edu, Let's make friends!
 
-
-GitHub Stats               |  Top Langs
-:-------------------------:|:-------------------------:
-[![Mingui's github stats](https://github-readme-stats.vercel.app/api?username=zhuminghui17&show_icon=true&theme=dark)](https://github.com/zhuminghui17) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuminghui17&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)

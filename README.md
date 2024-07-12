@@ -49,7 +49,7 @@
 
 </div>
 
-- I recently graduated from Duke University with an MS degree in Computer Science and Economics at Duke University.
+- I recently graduated from Duke University with an MS degree in Computer Science and Economics.
 - I'm actively looking for software engineer roles in the US. My experiences and interests lies in full stack web development, mobile app development, data science, and quantitative finance.
 - When I'm free, I enjoy ~~counting number of islands :desert_island:~~ traveling :mountain:, taking photos :camera_flash:, music 🎼.
 

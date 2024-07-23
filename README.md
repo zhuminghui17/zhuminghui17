@@ -50,7 +50,7 @@
 </div>
 
 - I recently graduated from Duke University with an MS degree in Computer Science and Economics.
-- I'm actively looking for software engineer roles in the US. My experiences and interests lies in full stack web development, mobile app development, data science, and quantitative finance.
+- I'm actively looking for software engineer roles in the US. My experiences and interests lies in full stack web development, mobile app development, cloud computing, and AI/ML.
 - When I'm free, I enjoy ~~counting number of islands :desert_island:~~ traveling :mountain:, reading maps 🌎, taking photos :camera_flash:.
 
 ## ⛏ My Toolsets:

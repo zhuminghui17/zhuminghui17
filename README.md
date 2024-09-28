@@ -1,57 +1,12 @@
-<h1 align="center">Hi, I'm Matt. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1>Hi, I'm Matt. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 </h1>
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
-  </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  </a>
+<h4><strong>I'm a full-stack software engineer focused on building impactful and scalable solutions that solve real-world problems.</strong></h4>
 
- </p>
-
-<div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhuminghui17)
-
-</div>
-
-- I recently graduated from Duke University with an MS degree in Computer Science and Economics.
-- I'm actively looking for software engineer roles in the US. My experiences and interests lies in full stack web development, mobile app development, cloud computing, and AI/ML.
+- I currently work at [Vertice AI](https://verticeanalytics.ai/), a fintech startup delivering consumable AI for credit unions and regional banks. 
+- I graduated from Duke University in 2024, where I studied Computer Science and Economics.
+- My experiences and interests lies in full-stack web development, cloud computing, AI/ML, and fintech.
 - When I'm free, I enjoy ~~counting number of islands :desert_island:~~ traveling :mountain:, reading maps 🌎, taking photos :camera_flash:.
+- I'm based on Philadelphia, PA and work remotely!
 
 ## ⛏ My Toolsets:
 
@@ -75,6 +30,41 @@
   <img src="https://komarev.com/ghpvc/?username=zhuminghui17&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </div>
 
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=ts)]()
+[![My Skills](https://skillicons.dev/icons?i=js)]()
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=redux)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=express&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html)]()
+[![My Skills](https://skillicons.dev/icons?i=css)]()
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=webpack&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vite&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=npm&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]()
+
+### Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zhuminghui17)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:zhuminghui17@gmail.com)
+
+<br>
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
+</div>
 
 
 

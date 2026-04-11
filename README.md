@@ -6,7 +6,6 @@
 - I graduated from Duke University in 2024, where I studied Computer Science and Economics.
 - My experiences and interests lies in full-stack web development, cloud computing, AI/ML, and fintech.
 - When I'm free, I enjoy ~~counting number of islands :desert_island:~~ traveling :mountain:, reading maps 🌎, taking photos :camera_flash:.
-- I'm based on Philadelphia, PA and work remotely!
 
 <br>
 <div align="left">
